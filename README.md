@@ -1,7 +1,7 @@
 # CodeFlare Desktop Client
 
 <p align="center">
-  <img src="/plugins/plugin-client-default/icons/svg/codeflare.svg" alt="CodeFlare" width="200" height="200">
+  <img src="https://github.com/project-codeflare/codeflare/blob/develop/images/codeflare_square.svg" alt="CodeFlare" width="200" height="200">
 </p>
 
 CodeFlare is a framework to simplify the integration, scaling and
